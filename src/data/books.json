@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"Test Book","price": 12.5, "src":"images/book2.png"},
+    {"id":2,"name":"Javascript","price":12.5, "src": "images/book.png"},
+    {"id":3,"name":"NodeJs","price":12.5, "src": "images/book.png"}
+]
